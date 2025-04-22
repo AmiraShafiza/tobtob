@@ -95,4 +95,3 @@ with fig_col3:
 
 st.markdown("### Detailed Data View")
 st.dataframe(df)
-time.sleep(1)
